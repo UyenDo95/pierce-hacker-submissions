@@ -1,9 +1,9 @@
 
 
 ---
-title|authors|date|reviewers|layout|difficulty level|
+Title|Authors|Date|Reviewers|Layout|Difficulty level|
 ---|---|---|---|---|---|
-Excel Tutorial for Stat Students|Uyen Do -Luke - Ivan| 05/22/2019|Jason Loan| Lesson|Intermidiate|
+Excel Tutorial for Stat Students|Uyen Do -Luke - Ivan| 05-22-2019|Jason Loan| Lesson|Intermediate|
 
 ---
 
